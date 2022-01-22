@@ -1,0 +1,19 @@
+.nav{
+    background-color: brown;
+    padding: 12px 50px;
+    color: white;
+    border-radius: 5px;
+}
+
+.nav:hover{
+ background-color: goldenrod;
+ color: brown;
+}
+.toggle{
+    background-color: brown;
+    padding: 4px 13px;
+    border-radius: 5px;
+}
+.toggle:hover{
+    background-color: goldenrod;
+   }

@@ -1,0 +1,30 @@
+.content-area{
+    width: 100%;
+}
+.content-area p{
+    color: #666666;  
+    margin-top: 0;
+    line-height: 1.7em;
+    padding: 2px 4px;
+    border-radius:10px;
+}
+.content-area input, textarea{
+    border: 0px solid;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.background{
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+
+.content-area input[type=submit]{
+    width: 100%;
+    color: #b92d1f;
+    cursor: pointer;
+}
