@@ -8,7 +8,7 @@ const Header = () => {
         <><Navbar className='fixed-top' bg="light" expand={false}>
             <Container>
                 <Navbar.Brand as={HashLink} to="/"><h5 className='nav fw-bold'>Home</h5></Navbar.Brand>
-                <Navbar.Toggle className="toggle" aria-controls="offcanvasNavbar" />
+                <Navbar.Toggle className="toggle text-white" aria-controls="offcanvasNavbar" />
                 <Navbar.Offcanvas
                     id="offcanvasNavbar"
                     aria-labelledby="offcanvasNavbarLabel"

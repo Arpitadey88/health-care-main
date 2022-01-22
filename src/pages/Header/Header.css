@@ -1,19 +1,20 @@
 .nav{
-    background-color: brown;
+    background-color: green;
     padding: 12px 50px;
     color: white;
     border-radius: 5px;
 }
 
 .nav:hover{
- background-color: goldenrod;
- color: brown;
+ background-color: aquamarine;
+ color: green;
 }
 .toggle{
-    background-color: brown;
+    background-color: green;
+    color:honeydew;
     padding: 4px 13px;
     border-radius: 5px;
 }
 .toggle:hover{
-    background-color: goldenrod;
+    background-color: aquamarine;
    }
